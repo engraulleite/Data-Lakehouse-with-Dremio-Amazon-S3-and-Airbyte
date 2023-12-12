@@ -12,3 +12,9 @@ The purpose of this project were to build a Data Lakehouse for distributed proce
 - [x]	Airbyte
 - [x]	Dremio
 - [x]	SQL
+      
+## Architecture Diagram:
+
+<img src="/Architecture Diagram.png">
+
+I made this diagram using [Diagrams.net](https://app.diagrams.net/)
