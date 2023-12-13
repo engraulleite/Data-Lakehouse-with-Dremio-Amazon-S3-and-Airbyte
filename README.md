@@ -15,6 +15,6 @@ The purpose of this project were to build a Data Lakehouse for distributed proce
       
 ## Architecture Diagram:
 
-<img src="/Architecture Diagram.png">
+<img src="/Architecture_Diagram.png">
 
 I made this diagram using [Diagrams.net](https://app.diagrams.net/)
